@@ -15,3 +15,11 @@
   - Search for items by name.
 
 
+
+## Version 1.2
+- 2024-10-17
+- Added user-requested features to improve inventory management system 
+  - Fixed it so when updating a quantity it displays
+  - Added a warning to overwrite items
+  - Displays inventory after each operation
+  - Fixed the crashing?
