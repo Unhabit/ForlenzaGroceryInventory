@@ -23,3 +23,7 @@
   - Added a warning to overwrite items
   - Displays inventory after each operation
   - Fixed the crashing?
+
+## Version 1.3
+- 2024-10-18
+  - Added comments of what errors I fixed
